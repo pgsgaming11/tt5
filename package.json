@@ -23,7 +23,7 @@
     "dotenv": "^8.2.0",
     "firebase-admin": "^9.2.0",
     "moment": "^2.29.0",
-    "moment-timezone": "^0.5.31"
+    "moment-timezone": "^0.5.35"
   },
   "devDependencies": {
     "heroku": "^7.43.2",
